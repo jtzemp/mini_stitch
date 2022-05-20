@@ -60,4 +60,4 @@ DEPENDENCIES
   rspec (~> 3.7.0)
 
 BUNDLED WITH
-   1.16.0.pre.3
+   2.2.32
