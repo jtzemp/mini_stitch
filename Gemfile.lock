@@ -4,7 +4,7 @@ PATH
     mini_stitch (0.1.0)
       json (>= 1.8, < 2.0)
       oj (~> 3.3, >= 3.3.9)
-      rest-client (~> 2.0, >= 2.0.2)
+      rest-client (~> 2.0, = 2.0.2)
 
 GEM
   remote: https://rubygems.org/
